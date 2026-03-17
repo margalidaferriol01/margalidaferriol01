@@ -32,9 +32,9 @@
 
 ### 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=margalidaferriol01&show_icons=true&theme=transparent&hide_border=true&title_color=d4af37&text_color=adbac7&icon_color=d4af37" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=margalidaferriol01&show_icons=true&theme=transparent&hide_border=true&title_color=d4af37&text_color=adbac7&icon_color=d4af37&cache_seconds=1800" height="155" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margalidaferriol01&layout=compact&theme=transparent&hide_border=true&title_color=d4af37&text_color=adbac7" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margalidaferriol01&layout=compact&theme=transparent&hide_border=true&title_color=d4af37&text_color=adbac7&cache_seconds=1800" height="155" />
 </p>
 
 ---
