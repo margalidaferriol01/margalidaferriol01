@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 ABOUT ME
-* 🏆 Currently studying ** Computer Engineering** at **Universitat Pompeu Fabra (UPF)**.
+* 🏆 Currently studying **Computer Engineering** at **Universitat Pompeu Fabra (UPF)**.
 * ✅ Completed **Higher Level Education Cycle (CFGS)** in Multiplatform Application Development at Prat Educació.
 ---
 
